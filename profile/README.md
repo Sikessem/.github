@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://sikessel.com/" title="Sikessel">
-        <img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessel" height="64"/>
+    <a href="https://sikessem.com/" title="Sikessem">
+        <img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="64"/>
     </a>
 
 # Empowering Open-Source Innovation for All 🌍
@@ -19,7 +19,7 @@ We 🩵 [#opensource](https://opensource.org/), and we're always looking for col
 ### Follow Us 🔔
 Stay updated with our latest projects and initiatives:
 
-<p><a href="https://x.com/intent/follow?screen_name=SikessemHQ"><img src="https://img.shields.io/twitter/follow/SikessemHQ.svg?label=Follow%20@SikessemHQ" alt="Follow @SikessemHQ"/></a></p>
+<p><a href="https://x.com/intent/follow?screen_name=SikessemEng"><img src="https://img.shields.io/twitter/follow/SikessemEng.svg?label=Follow%20@SikessemEng" alt="Follow @SikessemEng"/></a></p>
 
 ---
 
